@@ -1,3 +1,5 @@
+分析文本 :     Jobs
+
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    I am honored to be with you today at your commencement from one of the finest universities in the world.
 NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I never graduated from college.
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Truth be told, this is the closest I've ever gotten to a college graduation.
@@ -150,4 +152,6 @@ NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    Stay Foolish.
 
 
 
-總計 : 正面:37次，中立:73次，負面:35次
+總計 : 
+    NLTK _ 正面:47次，中立:79次，負面:19次
+    LSTM _ 正面:37次，中立:73次，負面:35次

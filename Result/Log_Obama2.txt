@@ -1,3 +1,5 @@
+分析文本 :     Obama2
+
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Vice President Biden, Mr. Chief Justice, Members of the United States Congress, distinguished guests, and fellow citizens:
 
 Each time we gather to inaugurate a president, we bear witness to the enduring strength of our Constitution.
@@ -89,4 +91,6 @@ NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    With common effort an
 
 
 
-總計 : 正面:29次，中立:47次，負面:4次
+總計 : 
+    NLTK _ 正面:44次，中立:29次，負面:9次
+    LSTM _ 正面:29次，中立:47次，負面:4次

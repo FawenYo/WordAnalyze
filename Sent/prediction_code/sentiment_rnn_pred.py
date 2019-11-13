@@ -1,7 +1,6 @@
 #from pycorenlp import StanfordCoreNLP
-#import os
-#os.chdir('/app-sentiment-algo')
 
+import os
 import pandas as pd
 import numpy as np
 import keras
@@ -27,6 +26,20 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
 import jieba
 import matplotlib.pyplot as plt
+
+# Set up File Path
+text_select = 'Trump'
+text_path = 'C:/Users/MyStyle/Desktop/WordAnalyze/Text/{}.txt'.format(text_select)
+log_path = 'C:/Users/MyStyle/Desktop/WordAnalyze/Result/Log_{}.txt'.format(text_select)
+
+# Initialize
+with open(log_path, "a", encoding = 'utf8') as myfile:
+        a = "test"
+        myfile.write(str(a))
+os.remove(log_path)
+with open(log_path, "a", encoding = 'utf8') as myfile:
+        a = "分析文本 :     {}\n\n".format(text_select)
+        myfile.write(str(a))
 
 weight_path = 'C:/Users/MyStyle/Desktop/WordAnalyze/Sent/model/best_model.hdf5'
 prd_model = load_model(weight_path)
@@ -115,10 +128,12 @@ def live_test(trained_model, data, word_idx):
         single_score_dot = -2
     return single_score_dot, single_score
 
-f = open('C:/Users/MyStyle/Desktop/WordAnalyze/Text/Trump.txt', encoding = 'utf8')
+f = open(text_path, encoding = 'utf8')
 sample = f.read()
 data_sample = sent_tokenize(sample)
-
+pos_nltk = 0
+neu_nltk = 0
+nag_nltk = 0
 pos = 0
 neu = 0
 nag = 0
@@ -129,10 +144,13 @@ for i in range (0, len(data_sample)-1):
     ss = sid.polarity_scores(data_sample[i])
     if ss['compound']>=0.3:
         sent_analyze = "正面"
+        pos_nltk = pos_nltk + 1
     elif -0.3 < ss['compound'] < 0.3:
         sent_analyze = "中立"
+        neu_nltk = neu_nltk + 1
     else :
         sent_analyze = "負面"
+        nag_nltk = nag_nltk + 1
 
     # LSTM Model
     result = live_test(loaded_model, data_sample[i], word_idx)
@@ -148,20 +166,58 @@ for i in range (0, len(data_sample)-1):
         result_sent = "負面"
         nag = nag + 1
 
-    with open("C:/Users/MyStyle/Desktop/WordAnalyze/Result/Log_Trump.txt", "a", encoding = 'utf8') as myfile:
+    with open(log_path, "a", encoding = 'utf8') as myfile:
         a = "NLTK 情緒模型 : {} , LSTM 情緒模型 : {}    {}\n".format(sent_analyze, result_sent, data_sample[i])
         myfile.write(str(a))
 
-with open("C:/Users/MyStyle/Desktop/WordAnalyze/Result/Log_Trump.txt", "a", encoding = 'utf8') as myfile:
-        a = "\n\n\n總計 : 正面:{}次，中立:{}次，負面:{}次".format(pos,neu,nag)
+with open(log_path, "a", encoding = 'utf8') as myfile:
+        a = "\n\n\n總計 : \n    NLTK _ 正面:{}次，中立:{}次，負面:{}次\n    LSTM _ 正面:{}次，中立:{}次，負面:{}次".format(pos_nltk,neu_nltk,nag_nltk,pos,neu,nag)
         myfile.write(str(a))
 print("File Saved !")
-file_1=open('C:/Users/MyStyle/Desktop/WordAnalyze/Result/Log_Trump.txt', encoding='utf-8').read()
+
+# Dispersion Plot
+words = ["正面","中立","負面"]
+plt_title = "{} Lexical Dispersion Plot".format(text_select)
+
+def dispersion_plot(text, words, ignore_case=False, title=plt_title):
+    try:
+        from matplotlib import pylab
+    except ImportError:
+        raise ValueError(
+            'The plot function requires matplotlib to be installed.'
+            'See http://matplotlib.org/'
+        )
+
+    text = list(text)
+    words.reverse()
+
+    if ignore_case:
+        words_to_comp = list(map(str.lower, words))
+        text_to_comp = list(map(str.lower, text))
+    else:
+        words_to_comp = words
+        text_to_comp = text
+
+    points = [
+        (x, y)
+        for x in range(len(text_to_comp))
+        for y in range(len(words_to_comp))
+        if text_to_comp[x] == words_to_comp[y]
+    ]
+    if points:
+        x, y = list(zip(*points))
+    else:
+        x = y = ()
+    pylab.plot(x, y, "b|", scalex=0.1)
+    pylab.yticks(list(range(len(words))), words, color="b")
+    pylab.ylim(-1, len(words))
+    pylab.title(title)
+    pylab.xlabel("Word Offset")
+    pylab.show()
+
+file_1=open(log_path, encoding='utf-8').read()
 seg_list=nltk.text.Text(jieba.lcut(file_1))
 
-from matplotlib.font_manager import FontProperties
-import matplotlib.pyplot as plt
 plt.figure(figsize=(10, 5)) 
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei']
-
-print(seg_list.dispersion_plot(["正面","中立","負面"]))
+dispersion_plot(seg_list, words, False, plt_title)

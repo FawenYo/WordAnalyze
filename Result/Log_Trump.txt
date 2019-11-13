@@ -1,3 +1,5 @@
+分析文本 :     Trump
+
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Chief Justice Roberts, President Carter, President Clinton, President Bush, President Obama, fellow Americans, and people of the world: thank you.
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We, the citizens of America, are now joined in a great national effort to rebuild our country and restore its promise for all of our people.
 NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Together we will determine the course of America, and the world, for many, many years to come.
@@ -94,4 +96,6 @@ NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Thank you.
 
 
 
-總計 : 正面:34次，中立:56次，負面:3次
+總計 : 
+    NLTK _ 正面:45次，中立:35次，負面:13次
+    LSTM _ 正面:34次，中立:56次，負面:3次

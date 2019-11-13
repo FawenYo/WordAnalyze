@@ -1,3 +1,5 @@
+分析文本 :     Dream
+
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation.
 NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice.
@@ -84,4 +86,6 @@ NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    free at last!
 
 
 
-總計 : 正面:20次，中立:52次，負面:4次
+總計 : 
+    NLTK _ 正面:42次，中立:22次，負面:15次
+    LSTM _ 正面:20次，中立:52次，負面:4次
