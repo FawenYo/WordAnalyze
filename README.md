@@ -22,7 +22,6 @@ What's this?
 * Change Word Cloud mask to cross.jpg
 * Fix Dict Structure
 * Add Sentiment Analyze Func. Using Deep Learning
-* Caution !!! Make sure to download model from release pages, cause by Github 100MB limit
 
 Reference : 
 https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html
