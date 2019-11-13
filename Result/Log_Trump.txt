@@ -1,0 +1,97 @@
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Chief Justice Roberts, President Carter, President Clinton, President Bush, President Obama, fellow Americans, and people of the world: thank you.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We, the citizens of America, are now joined in a great national effort to rebuild our country and restore its promise for all of our people.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Together we will determine the course of America, and the world, for many, many years to come.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We will face challenges.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We will confront hardships, but we will get the job done.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Every four years, we gather on these steps to carry out the orderly and peaceful transfer of power, and we are grateful to President Obama and First Lady Michelle Obama for their gracious aid throughout this transition.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    They have been magnificent.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Thank you.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Today's ceremony, however, has very special meaning, because today we are not merely transferring power from one administration to another, or from one party to another, but we are transferring power from Washington, D.C., and giving it back to you, the people.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    For too long, a small group in our nation's capital has reaped the rewards of government, while the people have borne the cost.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Washington flourished, but the people did not share in its wealth.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Politicians prospered, but the jobs left and the factories closed.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    The establishment protected itself, but not the citizens of our country.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Their victories have not been your victories.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Their triumphs have not been your triumphs, and while they celebrated in our nation's capital, there was little to celebrate for struggling families all across our land.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    That all changes, starting right here and right now, because this moment is your moment—it belongs to you.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    It belongs to everyone gathered here today, and everyone watching, all across America.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    This is your day.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    This is your celebration, and this, the United States of America, is your country.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    What truly matters is not which party controls our government, but whether our government is controlled by the people.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    January 20th, 2017 will be remembered as the day the people became the rulers of this nation again.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    The forgotten men and women of our country, will be forgotten no longer.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Everyone is listening to you now.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    You came by the tens of millions to become part of a historic movement, the likes of which the world has never seen before.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    At the center of this movement is a crucial conviction: that a nation exists to serve its citizens.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Americans want great schools for their children, safe neighborhoods for their families, and good jobs for themselves.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    These are just and reasonable demands of righteous people and a righteous public, but for too many of our citizens a different reality exists.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    Mothers and children trapped in poverty in our inner cities, rusted out factories, scattered like tombstones across the landscape of our nation.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 正面    An education system flush with cash, but which leaves our young and beautiful students deprived of all knowledge, and the crime, and the gangs, and the drugs that have stolen too many lives and robbed our country of so much unrealized potential.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    This American carnage stops right here and stops right now.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    We are one nation and their pain is our pain.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Their dreams are our dreams and their success will be our success.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We share one heart, one home, and one glorious destiny.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    The oath of office, I take today, is an oath of allegiance to all Americans.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    For many decades, we've enriched foreign industry at the expense of American industry, subsidized the armies of other countries, while allowing for the very sad depletion of our military.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    We've defended other nation's borders while refusing to defend our own.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 正面    And spent trillions and trillions of dollars overseas, while America's infrastructure has fallen into disrepair and decay.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We've made other countries rich while the wealth, strength and confidence of our country has dissipated over the horizon.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    One by one, the factories shuttered and left our shores, with not even a thought about the millions and millions of American workers that were left behind.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    The wealth of our middle class has been ripped from their homes and then redistributed all across the world.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    But that is the past, and now we are looking only to the future.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    We assembled here today are issuing a new decree to be heard in every city, in every foreign capital, and in every hall of power, from this day forward: a new vision will govern our land, from this day forward, it's going to be only America first.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Every decision on trade, on taxes, on immigration, on foreign affairs will be made to benefit American workers and American families.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    We must protect our borders from the ravages of other countries making our products, stealing our companies and destroying our jobs.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Protection will lead to great prosperity and strength.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    I will fight for you with every breath in my body, and I will never, ever let you down.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    America will start winning again, winning like never before.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We will bring back our jobs.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We will bring back our borders.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We will bring back our wealth, and we will bring back our dreams.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We will build new roads and highways and bridges, and airports and tunnels, and railways, all across our wonderful nation.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We will get our people off of welfare and back to work, rebuilding our country with American hands and American labor.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We will follow two simple rules: buy American, and hire American.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We will seek friendship and goodwill with the nations of the world, but we do so with the understanding that it is the right of all nations to put their own interests first.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    We do not seek to impose our way of life on anyone, but rather to let it shine as an example.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    We will shine for everyone to follow.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    We will reinforce old alliances and form new ones, and unite the civilized world against radical Islamic terrorism, which we will eradicate completely from the face of the Earth.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    At the bedrock of our politics will be a total allegiance to the United States of America, and through our loyalty to our country, we will rediscover our loyalty to each other.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    When you open your heart to patriotism, there is no room for prejudice.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    The Bible tells us: how good and pleasant it is when God's people live together in unity.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We must speak our minds openly, debate our disagreements honestly, but always pursue solidarity.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    When America is united, America is totally unstoppable.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    There should be no fear.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We are protected, and we will always be protected.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We will be protected by the great men and women of our military and law enforcement.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And most importantly, we will be protected by God.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Finally, we must think big and dream even bigger.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    In America, we understand that a nation is only living as long as it is striving.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    We will no longer accept politicians who are all talk and no action, constantly complaining but never doing anything about it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    The time for empty talk is over.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Now arrives the hour of action.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Do not allow anyone to tell you that it cannot be done.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    No challenge can match the heart and fight and spirit of America.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We will not fail.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Our country will thrive and prosper again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We stand at the birth of a new millennium, ready to unlock the mysteries of space, to free the Earth from the miseries of disease and to harness the energies, industries and technologies of tomorrow.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    A new national pride will stir our souls, lift our sights and heal our divisions.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    It's time to remember that old wisdom our soldiers will never forget, that whether we are black, or brown, or white, we all bleed the same red blood of patriots.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We all enjoy the same glorious freedoms, and we all salute the same, great American flag.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And whether a child is born in the urban sprawl of Detroit or the windswept plains of Nebraska, they look up at the at the same night sky, they fill their heart with the same dreams and they are infused with the breath of life by the same almighty creator.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    So to all Americans, in every city near and far, small and large, from mountain to mountain, from ocean to ocean, hear these words.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    You will never be ignored again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Your voice, your hopes, and your dreams will define our American destiny.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And your courage and goodness and love, will forever guide us along the way.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Together, we will make America strong again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We will make America wealthy again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    We will make America proud again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    We will make America safe again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And yes, together, we will make America great again.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Thank you.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    God bless you.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    And God bless America.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Thank you.
+
+
+
+總計 : 正面:34次，中立:56次，負面:3次

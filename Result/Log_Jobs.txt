@@ -1,0 +1,153 @@
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    I am honored to be with you today at your commencement from one of the finest universities in the world.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I never graduated from college.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Truth be told, this is the closest I've ever gotten to a college graduation.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Today I want to tell you three stories from my life.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    That's it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    No big deal.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Just three stories.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    The first story is about connecting the dots.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    I dropped out of Reed College after the first 6 months, but then stayed around as a drop-in for another 18 months or so before I really quit.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    So why did I drop out?
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    It started before I was born.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    My biological mother was a young, unwed college graduate student, and she decided to put me up for adoption.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Except that when I popped out they decided at the last minute that they really wanted a girl.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    So my parents, who were on a waiting list, got a call in the middle of the night asking: "We have an unexpected baby boy; do you want him?"
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    They said: "Of course."
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    My biological mother later found out that my mother had never graduated from college and that my father had never graduated from high school.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    She refused to sign the final adoption papers.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    She only relented a few months later when my parents promised that I would someday go to college.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    And 17 years later I did go to college.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    But I naively chose a college that was almost as expensive as Stanford, and all of my working-class parents' savings were being spent on my college tuition.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    After six months, I couldn't see the value in it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    I had no idea what I wanted to do with my life and no idea how college was going to help me figure it out.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    And here I was spending all of the money my parents had saved their entire life.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    So I decided to drop out and trust that it would all work out OK.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    It was pretty scary at the time, but looking back it was one of the best decisions I ever made.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    The minute I dropped out I could stop taking the required classes that didn't interest me, and begin dropping in on the ones that looked interesting.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    It wasn't all romantic.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    I didn't have a dorm room, so I slept on the floor in friends' rooms, I returned Coke bottles for the 5¢ deposits to buy food with, and I would walk the 7 miles across town every Sunday night to get one good meal a week at the Hare Krishna temple.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    I loved it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    And much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Let me give you one example:
+
+Reed College at that time offered perhaps the best calligraphy instruction in the country.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Throughout the campus every poster, every label on every drawer, was beautifully hand calligraphed.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Because I had dropped out and didn't have to take the normal classes, I decided to take a calligraphy class to learn how to do this.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    I learned about serif and sans serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    None of this had even a hope of any practical application in my life.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    But 10 years later, when we were designing the first Macintosh computer, it all came back to me.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    And we designed it all into the Mac.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    It was the first computer with beautiful typography.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    And since Windows just copied the Mac, it's likely that no personal computer would have them.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 正面    If I had never dropped out, I would have never dropped in on this calligraphy class, and personal computers might not have the wonderful typography that they do.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Of course it was impossible to connect the dots looking forward when I was in college.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    But it was very, very clear looking backward 10 years later.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Again, you can't connect the dots looking forward; you can only connect them looking backward.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    So you have to trust that the dots will somehow connect in your future.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    You have to trust in something — your gut, destiny, life, karma, whatever.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    This approach has never let me down, and it has made all the difference in my life.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    My second story is about love and loss.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    I was lucky — I found what I loved to do early in life.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Woz and I started Apple in my parents' garage when I was 20.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    We worked hard, and in 10 years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    We had just released our finest creation — the Macintosh — a year earlier, and I had just turned 30.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    And then I got fired.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    How can you get fired from a company you started?
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Well, as Apple grew we hired someone who I thought was very talented to run the company with me, and for the first year or so things went well.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    But then our visions of the future began to diverge and eventually we had a falling out.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    When we did, our Board of Directors sided with him.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    So at 30 I was out.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    And very publicly out.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    What had been the focus of my entire adult life was gone, and it was devastating.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I really didn't know what to do for a few months.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    I felt that I had let the previous generation of entrepreneurs down — that I had dropped the baton as it was being passed to me.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    I was a very public failure, and I even thought about running away from the valley.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    But something slowly began to dawn on me — I still loved what I did.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    The turn of events at Apple had not changed that one bit.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    I had been rejected, but I was still in love.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    And so I decided to start over.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    It freed me to enter one of the most creative periods of my life.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    During the next five years, I started a company named NeXT, another company named Pixar, and fell in love with an amazing woman who would become my wife.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Pixar went on to create the world's first computer animated feature film, Toy Story, and is now the most successful animation studio in the world.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    In a remarkable turn of events, Apple bought NeXT, I returned to Apple, and the technology we developed at NeXT is at the heart of Apple's current renaissance.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And Laurene and I have a wonderful family together.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    I'm pretty sure none of this would have happened if I hadn't been fired from Apple.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    It was awful tasting medicine, but I guess the patient needed it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Sometimes life hits you in the head with a brick.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Don't lose faith.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    I'm convinced that the only thing that kept me going was that I loved what I did.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    You've got to find what you love.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And that is as true for your work as it is for your lovers.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And the only way to do great work is to love what you do.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    If you haven't found it yet, keep looking.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Don't settle.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    As with all matters of the heart, you'll know when you find it.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And, like any great relationship, it just gets better and better as the years roll on.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    So keep looking until you find it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Don't settle.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    My third story is about death.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    When I was 17, I read a quote that went something like: "If you live each day as if it was your last, someday you'll most certainly be right."
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    It made an impression on me, and since then, for the past 33 years, I have looked in the mirror every morning and asked myself: "If today were the last day of my life, would I want to do what I am about to do today?"
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    And whenever the answer has been "No" for too many days in a row, I know I need to change something.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 正面    Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    You are already naked.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    There is no reason not to follow your heart.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    About a year ago I was diagnosed with cancer.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I didn't even know what a pancreas was.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    My doctor advised me to go home and get my affairs in order, which is doctor's code for prepare to die.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    It means to try to tell your kids everything you thought you'd have the next 10 years to tell them in just a few months.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    It means to make sure everything is buttoned up so that it will be as easy as possible for your family.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    It means to say your goodbyes.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I lived with that diagnosis all day.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 負面    Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach and into my intestines, put a needle into my pancreas and got a few cells from the tumor.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope the doctors started crying because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    I had the surgery and I'm fine now.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    This was the closest I've been to facing death, and I hope it's the closest I get for a few more decades.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept:
+
+No one wants to die.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Even people who want to go to heaven don't want to die to get there.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    And yet death is the destination we all share.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    No one has ever escaped it.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    And that is as it should be, because Death is very likely the single best invention of Life.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    It is Life's change agent.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    It clears out the old to make way for the new.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    Right now the new is you, but someday not too long from now, you will gradually become the old and be cleared away.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Sorry to be so dramatic, but it is quite true.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Your time is limited, so don't waste it living someone else's life.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    Don't be trapped by dogma — which is living with the results of other people's thinking.
+NLTK 情緒模型 : 負面 , LSTM 情緒模型 : 中立    Don't let the noise of others' opinions drown out your own inner voice.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And most important, have the courage to follow your heart and intuition.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    They somehow already know what you truly want to become.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Everything else is secondary.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    It was created by a fellow named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    This was in the late 1960s, before personal computers and desktop publishing, so it was all made with typewriters, scissors and Polaroid cameras.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 負面    It was sort of like Google in paperback form, 35 years before Google came along: It was idealistic, and overflowing with neat tools and great notions.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    It was the mid-1970s, and I was your age.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 中立    On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 中立    Beneath it were the words: "Stay Hungry.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    Stay Foolish."
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    It was their farewell message as they signed off.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Stay Hungry.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    Stay Foolish.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    And I have always wished that for myself.
+NLTK 情緒模型 : 正面 , LSTM 情緒模型 : 正面    And now, as you graduate to begin anew, I wish that for you.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 正面    Stay Hungry.
+NLTK 情緒模型 : 中立 , LSTM 情緒模型 : 負面    Stay Foolish.
+
+
+
+總計 : 正面:37次，中立:73次，負面:35次
