@@ -13,10 +13,12 @@ print(nltk.__file__)
 
 ## sample text
 sample = gutenberg.raw("bible-kjv.txt")
+## fp = open('C:/Users/MyStyle/Desktop/WordAnalyze/Text/Trump.txt', 'r', encoding='utf-8')
+## sample = fp.readline() 
 tok = word_tokenize(sample)
 
 stopwords = nltk.corpus.stopwords.words('english')
-newStopWords = [',','.',':',';','?','And','I']
+newStopWords = [',','.',':',';','?','And','I','!','``','\'s','-','—']
 stopwords.extend(newStopWords)
 filtered_sentence = [w for w in tok if not w in stopwords] 
 filtered_sentence = [] 
@@ -25,6 +27,7 @@ for w in tok:
         filtered_sentence.append(w) 
 mytext = nltk.Text(filtered_sentence)
 filter_dist = nltk.FreqDist(filtered_sentence)
+print(filter_dist.most_common(50))
 
 ## 詞彙多樣性 (相異單詞數量/總單詞數量)
 def lexical_diversity(text):
@@ -42,7 +45,7 @@ import matplotlib.pyplot as plt
 
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
-pic_mask = np.array(Image.open(path.join(d, "cross.jpg")))
+pic_mask = np.array(Image.open(path.join(d, "test2.png")))
 
 string = ''
 for w in filtered_sentence:
@@ -54,8 +57,7 @@ plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis("off")
 plt.show()
 
-filter_dist.plot(20)
-
+filter_dist.plot(50)
 ##print("在古騰堡聖經中")
 ##
 ##print()
